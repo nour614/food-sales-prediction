@@ -10,7 +10,13 @@ Heatpam of the different features
 
 ![](https://github.com/nour614/food-sales-prediction/blob/main/sales%20heatmap.png)
 
-This heatmap displays the correlation between various features of the sold items. Based on the heatmap, we can observe that there is a low correlation between Item Outlet Sales and the other features, except for Item MRP which has the highest correlation coefficient of 0.57. This suggests that Item MRP is a significant predictor of Item Outlet Sales, while the other features may have less impact on sales
+This heatmap displays the correlation between various features of the sold items. Based on the heatmap, we can observe that there is a low correlation between Item Outlet Sales and the other features, except for Item MRP which has the highest correlation coefficient of 0.57. This suggests that Item MRP is a significant predictor of Item Outlet Sales, while the other features may have less impact on sales.
+
+Histogram of the item type
+
+![](https://github.com/nour614/food-sales-prediction/blob/main/histo%20Sales.png)
+
+The histogram provides a clear and concise summary of the sales data, highlighting the distribution of sales across different items.
 
 ### To prepare this data, the data was cleaned, and the following processes were performed:
 

@@ -6,6 +6,12 @@ Analyzing the highest and lowest prices in food sales
 ## Date Dictionary 
 <img width="595" alt="Screen Shot 2023-04-11 at 2 30 43 AM" src="https://user-images.githubusercontent.com/125938742/231075147-9ac3c9c5-d42e-4bce-ab4a-5c21411ad25c.png">
 
+Heatpam of the different features 
+
+![](https://github.com/nour614/food-sales-prediction/blob/main/sales%20heatmap.png)
+
+This heatmap displays the correlation between various features of the sold items. Based on the heatmap, we can observe that there is a low correlation between Item Outlet Sales and the other features, except for Item MRP which has the highest correlation coefficient of 0.57. This suggests that Item MRP is a significant predictor of Item Outlet Sales, while the other features may have less impact on sales
+
 ### To prepare this data, the data was cleaned, and the following processes were performed:
 
 - Exploratory Data Analysis
